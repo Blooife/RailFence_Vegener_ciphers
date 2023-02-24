@@ -1,0 +1,11 @@
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\bin\Debug\lab1Ti.exe.config
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\bin\Debug\lab1Ti.exe
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\bin\Debug\lab1Ti.pdb
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.Properties.Resources.resources
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.csproj.GenerateResource.cache
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.exe
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.pdb
+C:\Users\Asus\RiderProjects\lab1Ti\lab1Ti\obj\Debug\lab1Ti.Form1.resources
